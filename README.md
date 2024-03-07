@@ -1,4 +1,4 @@
-# Hola :wave:, bienvenido a este Repositorio de la Especialización en Analítica y Ciencia de Datos. :bar_chart: :chart_with_upwards_trend:
+# Hola :wave:, bienvenido a mi Repositorio de la Especialización en Analítica y Ciencia de Datos. :bar_chart: :chart_with_upwards_trend:
 
 Sigue estos enlaces para acceder al contenido publicado en el repo, ahí podrás encontrar información valiosa, notebooks y diferentes contenidos sobre lo visto en la especialización.
 Espero que este contenido te sea de utilidad.
